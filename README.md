@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🚀 Phrase Prediction Project  
 
