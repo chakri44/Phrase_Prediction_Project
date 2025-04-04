@@ -1,7 +1,3 @@
-Here’s a **professional, structured, and interview-ready README** for your **Phrase Prediction Project**.  
-
-Copy-paste this into your `README.md` file:  
-
 ---
 
 ```markdown
